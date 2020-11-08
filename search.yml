@@ -1,0 +1,14 @@
+products:
+    css: 'div.s-latency-cf-section'
+    multiple: true
+    type: Text
+    children:
+        title:
+            css: span.a-size-medium
+            type: Text
+        price:
+            css: span.a-price-whole
+            type: Text
+        link:
+            css: a.a-link-normal
+            type: Link
